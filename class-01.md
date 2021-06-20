@@ -5,6 +5,7 @@
 1.The opening and closing tags <s>  
 2.The content  
 3.The Elements  
+
 # WIREFRAMES 
 *Is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product*
 
